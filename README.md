@@ -20,4 +20,5 @@ t98app-open-issues
 3. 需求使用enhancement标签  
 
 ###移动客户端
-iOS可在App Store免费下载使用CodeHub应用，登录后进行问题提交和管理，支持选取截屏图片
+iOS可在App Store免费下载使用CodeHub应用，登录后进行问题提交和管理，支持选取截屏图片  
+Android可在Play Store免费下载GitHub官方应用  
