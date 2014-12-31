@@ -16,8 +16,8 @@ t98app-open-issues
 
 ###标签类别
 1. iOS、Android版本使用不同标签区分  
-2. 问题缺陷使用bug标签  
-3. 需求使用enhancement标签  
+2. 问题缺陷请使用bug标签  
+3. 需求请使用“改进”标签  
 
 ###移动客户端
 iOS可在App Store免费下载使用CodeHub应用，登录后进行问题提交和管理，支持选取截屏图片  
